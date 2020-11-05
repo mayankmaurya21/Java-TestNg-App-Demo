@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="70336" started-at="2020-09-11T10:52:15 IST" finished-at="2020-09-11T10:53:26 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="70336" started-at="2020-09-11T10:52:15 IST" finished-at="2020-09-11T10:53:26 IST">
+      <class name="BrowserStackAndroid">
+        <test-method status="PASS" signature="launchAndroidGooglePixel3Xl()[pri:0, instance:BrowserStackAndroid@687080dc]" name="launchAndroidGooglePixel3Xl" duration-ms="48102" started-at="2020-09-11T10:52:15 IST" finished-at="2020-09-11T10:53:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchAndroidGooglePixel3Xl -->
+        <test-method status="PASS" signature="launchAndroidSamsungTabS6()[pri:0, instance:BrowserStackAndroid@687080dc]" name="launchAndroidSamsungTabS6" duration-ms="47797" started-at="2020-09-11T10:52:15 IST" finished-at="2020-09-11T10:53:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchAndroidSamsungTabS6 -->
+        <test-method status="PASS" signature="launchAndroidMotorolaG7()[pri:0, instance:BrowserStackAndroid@687080dc]" name="launchAndroidMotorolaG7" duration-ms="53227" started-at="2020-09-11T10:52:15 IST" finished-at="2020-09-11T10:53:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchAndroidMotorolaG7 -->
+        <test-method status="PASS" signature="launchAndroidSamsungGalaxys8Plus()[pri:0, instance:BrowserStackAndroid@687080dc]" name="launchAndroidSamsungGalaxys8Plus" duration-ms="70174" started-at="2020-09-11T10:52:15 IST" finished-at="2020-09-11T10:53:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchAndroidSamsungGalaxys8Plus -->
+      </class> <!-- BrowserStackAndroid -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
